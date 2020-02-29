@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  An ESPecially Good App
 //
 //  Created by student on 2/28/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class StatisticsViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

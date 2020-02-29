@@ -1,5 +1,5 @@
 //
-//  SecondViewController.swift
+//  FirstViewController.swift
 //  An ESPecially Good App
 //
 //  Created by student on 2/28/20.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SecondViewController: UIViewController {
+class GuessViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()

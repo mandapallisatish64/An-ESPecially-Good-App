@@ -15,9 +15,6 @@
 		3F67EC2A240A007E0084F43E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F67EC29240A007E0084F43E /* Assets.xcassets */; };
 		3F67EC2D240A007E0084F43E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F67EC2B240A007E0084F43E /* LaunchScreen.storyboard */; };
 		3F67EC35240A01200084F43E /* HistoryTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F67EC34240A01200084F43E /* HistoryTableViewController.swift */; };
-		3F67EC37240B5BF10084F43E /* icons8-filled-circle-48.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F67EC36240B5BF10084F43E /* icons8-filled-circle-48.png */; };
-		3F67EC39240B5BFF0084F43E /* icons8-triangle-40.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F67EC38240B5BFF0084F43E /* icons8-triangle-40.png */; };
-		3F67EC3B240B5C0B0084F43E /* icons8-star-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F67EC3A240B5C0B0084F43E /* icons8-star-50.png */; };
 		3F67EC3D240B5F2E0084F43E /* Predictions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F67EC3C240B5F2E0084F43E /* Predictions.swift */; };
 /* End PBXBuildFile section */
 
@@ -32,9 +29,6 @@
 		3F67EC2C240A007E0084F43E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F67EC2E240A007E0084F43E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F67EC34240A01200084F43E /* HistoryTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryTableViewController.swift; sourceTree = "<group>"; };
-		3F67EC36240B5BF10084F43E /* icons8-filled-circle-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-filled-circle-48.png"; sourceTree = "<group>"; };
-		3F67EC38240B5BFF0084F43E /* icons8-triangle-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-triangle-40.png"; sourceTree = "<group>"; };
-		3F67EC3A240B5C0B0084F43E /* icons8-star-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icons8-star-50.png"; sourceTree = "<group>"; };
 		3F67EC3C240B5F2E0084F43E /* Predictions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Predictions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -76,9 +70,6 @@
 				3F67EC34240A01200084F43E /* HistoryTableViewController.swift */,
 				3F67EC26240A007C0084F43E /* Main.storyboard */,
 				3F67EC29240A007E0084F43E /* Assets.xcassets */,
-				3F67EC3A240B5C0B0084F43E /* icons8-star-50.png */,
-				3F67EC38240B5BFF0084F43E /* icons8-triangle-40.png */,
-				3F67EC36240B5BF10084F43E /* icons8-filled-circle-48.png */,
 				3F67EC2B240A007E0084F43E /* LaunchScreen.storyboard */,
 				3F67EC2E240A007E0084F43E /* Info.plist */,
 			);
@@ -143,12 +134,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F67EC3B240B5C0B0084F43E /* icons8-star-50.png in Resources */,
 				3F67EC2D240A007E0084F43E /* LaunchScreen.storyboard in Resources */,
-				3F67EC39240B5BFF0084F43E /* icons8-triangle-40.png in Resources */,
 				3F67EC2A240A007E0084F43E /* Assets.xcassets in Resources */,
 				3F67EC28240A007C0084F43E /* Main.storyboard in Resources */,
-				3F67EC37240B5BF10084F43E /* icons8-filled-circle-48.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
